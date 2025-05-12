@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Code Deck | An Online IDE
 
 ## Demo
@@ -35,3 +36,6 @@
 - [Styled Component Documentation](https://styled-components.com/docs/basics) -> for styling
 - [CodeMirror](https://uiwjs.github.io/react-codemirror/) -> for Coding Editor
 - [Vercel](https://vercel.com/) -> for hoisting
+=======
+# online-code-editor
+>>>>>>> a9598a76cc84341d55d7bf02a644fe5d5c0ea6f6
